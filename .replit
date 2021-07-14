@@ -1,2 +1,0 @@
-language = "c"
-run = "chmod +x run.sh; ./run.sh"
